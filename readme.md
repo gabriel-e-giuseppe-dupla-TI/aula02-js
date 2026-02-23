@@ -1,0 +1,1 @@
+aula 02 de JS - Sorteando número e utilizando operadores aritméticos
